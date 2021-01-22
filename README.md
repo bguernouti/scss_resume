@@ -1,1 +1,1 @@
-# A4 resume template using scss language
+# Resume template A4 size using scss language
